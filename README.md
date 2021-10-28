@@ -1,6 +1,6 @@
 # auth-api
 
-Created by Harvey Lucas
+Created by Harvey Lucas and Roop Hayer
 
 ## Installation
 
