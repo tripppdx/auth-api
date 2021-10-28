@@ -19,7 +19,7 @@ Implement Role Based Access Control (RBAC) using an Access Control List (ACL), a
 
 ## Links to application deployment
 
-PR: https://github.com/tripppdx/auth-api/pull/2
+PR: https://github.com/tripppdx/auth-api/pull/3
 
 ## Visual
 
